@@ -1,0 +1,5228 @@
+{
+  "date": "2026-04-21",
+  "prev_date": "2026-04-20",
+  "generated_at": "2026-04-23T13:58:01.906897",
+  "kpi": {
+    "total_stocks": 265,
+    "increase_count": 50,
+    "decrease_count": 21,
+    "unchanged_count": 192,
+    "price_up_count": 73,
+    "price_down_count": 173
+  },
+  "increase": [
+    {
+      "name": "翰森制药",
+      "value": 9000000
+    },
+    {
+      "name": "中国石油化工股份",
+      "value": 2960000
+    },
+    {
+      "name": "香港中华煤气",
+      "value": 1117078
+    },
+    {
+      "name": "中国银行",
+      "value": 427332
+    },
+    {
+      "name": "中国海洋石油",
+      "value": 200000
+    },
+    {
+      "name": "建设银行",
+      "value": 167424
+    },
+    {
+      "name": "北控水务集团",
+      "value": 147000
+    },
+    {
+      "name": "国泰航空",
+      "value": 138000
+    },
+    {
+      "name": "中电控股",
+      "value": 134333
+    },
+    {
+      "name": "中国移动",
+      "value": 125500
+    },
+    {
+      "name": "恒基地产",
+      "value": 106842
+    },
+    {
+      "name": "时代中国控股",
+      "value": 100295
+    },
+    {
+      "name": "金沙中国有限公司",
+      "value": 100000
+    },
+    {
+      "name": "中信股份",
+      "value": 75000
+    },
+    {
+      "name": "小米集团－Ｗ",
+      "value": 62399
+    },
+    {
+      "name": "工商银行",
+      "value": 59201
+    },
+    {
+      "name": "途虎－Ｗ",
+      "value": 51835
+    },
+    {
+      "name": "中国神华",
+      "value": 40000
+    },
+    {
+      "name": "港铁公司",
+      "value": 37932
+    },
+    {
+      "name": "中国石油股份",
+      "value": 36000
+    }
+  ],
+  "decrease": [
+    {
+      "name": "汇丰控股",
+      "value": -3545183
+    },
+    {
+      "name": "金川国际",
+      "value": -105500
+    },
+    {
+      "name": "华能国际电力股份",
+      "value": -100000
+    },
+    {
+      "name": "龙源电力",
+      "value": -100000
+    },
+    {
+      "name": "西王置业",
+      "value": -100000
+    },
+    {
+      "name": "宝龙商业",
+      "value": -58000
+    },
+    {
+      "name": "领展房产基金",
+      "value": -27475
+    },
+    {
+      "name": "中国电信",
+      "value": -20000
+    },
+    {
+      "name": "太古股份公司Ｂ",
+      "value": -7500
+    },
+    {
+      "name": "交通银行",
+      "value": -5336
+    },
+    {
+      "name": "银河娱乐",
+      "value": -5000
+    },
+    {
+      "name": "中国铝业",
+      "value": -4000
+    },
+    {
+      "name": "波司登",
+      "value": -4000
+    },
+    {
+      "name": "中国太平",
+      "value": -1820
+    },
+    {
+      "name": "中国交通建设",
+      "value": -1000
+    },
+    {
+      "name": "易鑫集团",
+      "value": -1000
+    },
+    {
+      "name": "招商银行",
+      "value": -966
+    },
+    {
+      "name": "东亚银行",
+      "value": -626
+    },
+    {
+      "name": "中银香港",
+      "value": -499
+    },
+    {
+      "name": "兖矿能源",
+      "value": -30
+    }
+  ],
+  "pie": [
+    {
+      "value": 50,
+      "name": "增持",
+      "itemStyle": {
+        "color": "#ef4444"
+      }
+    },
+    {
+      "value": 21,
+      "name": "减持",
+      "itemStyle": {
+        "color": "#22c55e"
+      }
+    },
+    {
+      "value": 192,
+      "name": "不变",
+      "itemStyle": {
+        "color": "#64748b"
+      }
+    }
+  ],
+  "scatter": [
+    {
+      "name": "时代中国控股",
+      "ccass_change_pct": 0.010000000000005116,
+      "price_change_pct": -5.556,
+      "ccass_change": 100295
+    },
+    {
+      "name": "建滔积层板",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 7.907,
+      "ccass_change": 3000
+    },
+    {
+      "name": "美东汽车",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -5.607,
+      "ccass_change": 0
+    },
+    {
+      "name": "华虹半导体",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -6.369,
+      "ccass_change": 0
+    },
+    {
+      "name": "君实生物",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -5.874,
+      "ccass_change": 0
+    },
+    {
+      "name": "康诺亚－Ｂ",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -6.392,
+      "ccass_change": 0
+    },
+    {
+      "name": "潍柴动力",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 7.186,
+      "ccass_change": 0
+    },
+    {
+      "name": "启明医疗－Ｂ",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -5.769,
+      "ccass_change": 0
+    },
+    {
+      "name": "中海油田服务",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 5.434,
+      "ccass_change": 0
+    },
+    {
+      "name": "FIT HON TENG",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -5.556,
+      "ccass_change": 0
+    },
+    {
+      "name": "正荣地产",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 6.25,
+      "ccass_change": 0
+    },
+    {
+      "name": "小鹏集团－Ｗ",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -6.255,
+      "ccass_change": 0
+    },
+    {
+      "name": "康方生物",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -11.788,
+      "ccass_change": 0
+    },
+    {
+      "name": "宏信建发",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -5.155,
+      "ccass_change": 0
+    },
+    {
+      "name": "统一企业中国",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -3.929,
+      "ccass_change": 0
+    },
+    {
+      "name": "海信家电",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.343,
+      "ccass_change": 0
+    },
+    {
+      "name": "安徽皖通高速公路",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.977,
+      "ccass_change": 0
+    },
+    {
+      "name": "中国南方航空股份",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -3.747,
+      "ccass_change": 0
+    },
+    {
+      "name": "中联重科",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.335,
+      "ccass_change": 0
+    },
+    {
+      "name": "宝龙地产",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.24,
+      "ccass_change": 0
+    },
+    {
+      "name": "濠江机电",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.0,
+      "ccass_change": 0
+    },
+    {
+      "name": "晨鸣纸业",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 2.655,
+      "ccass_change": 0
+    },
+    {
+      "name": "奈雪的茶",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -4.762,
+      "ccass_change": 0
+    },
+    {
+      "name": "广汽集团",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.582,
+      "ccass_change": 0
+    },
+    {
+      "name": "高鑫零售",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.709,
+      "ccass_change": 0
+    },
+    {
+      "name": "特海国际",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.646,
+      "ccass_change": 0
+    },
+    {
+      "name": "宝龙商业",
+      "ccass_change_pct": -0.00999999999999801,
+      "price_change_pct": -0.82,
+      "ccass_change": -58000
+    },
+    {
+      "name": "翰森制药",
+      "ccass_change_pct": 0.14999999999999858,
+      "price_change_pct": -1.918,
+      "ccass_change": 9000000
+    },
+    {
+      "name": "中国石油化工股份",
+      "ccass_change_pct": 0.010000000000005116,
+      "price_change_pct": 1.778,
+      "ccass_change": 2960000
+    },
+    {
+      "name": "香港中华煤气",
+      "ccass_change_pct": 0.00999999999999801,
+      "price_change_pct": -0.413,
+      "ccass_change": 1117078
+    },
+    {
+      "name": "中国银行",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.978,
+      "ccass_change": 427332
+    },
+    {
+      "name": "中国海洋石油",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 2.158,
+      "ccass_change": 200000
+    },
+    {
+      "name": "建设银行",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 1.254,
+      "ccass_change": 167424
+    },
+    {
+      "name": "北控水务集团",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.0,
+      "ccass_change": 147000
+    },
+    {
+      "name": "国泰航空",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.421,
+      "ccass_change": 138000
+    },
+    {
+      "name": "中电控股",
+      "ccass_change_pct": 0.010000000000005116,
+      "price_change_pct": -0.266,
+      "ccass_change": 134333
+    },
+    {
+      "name": "中国移动",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.839,
+      "ccass_change": 125500
+    },
+    {
+      "name": "恒基地产",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.914,
+      "ccass_change": 106842
+    },
+    {
+      "name": "金沙中国有限公司",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.401,
+      "ccass_change": 100000
+    },
+    {
+      "name": "中信股份",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.232,
+      "ccass_change": 75000
+    },
+    {
+      "name": "小米集团－Ｗ",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.824,
+      "ccass_change": 62399
+    },
+    {
+      "name": "工商银行",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 1.122,
+      "ccass_change": 59201
+    },
+    {
+      "name": "途虎－Ｗ",
+      "ccass_change_pct": 0.009999999999990905,
+      "price_change_pct": 0.367,
+      "ccass_change": 51835
+    },
+    {
+      "name": "中国神华",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 2.107,
+      "ccass_change": 40000
+    },
+    {
+      "name": "港铁公司",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.804,
+      "ccass_change": 37932
+    },
+    {
+      "name": "中国石油股份",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 3.38,
+      "ccass_change": 36000
+    },
+    {
+      "name": "中国平安",
+      "ccass_change_pct": 0.010000000000005116,
+      "price_change_pct": -1.06,
+      "ccass_change": 23500
+    },
+    {
+      "name": "中国人寿",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.393,
+      "ccass_change": 16000
+    },
+    {
+      "name": "云顶新耀",
+      "ccass_change_pct": 0.010000000000005116,
+      "price_change_pct": -3.864,
+      "ccass_change": 12700
+    },
+    {
+      "name": "华润啤酒",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.155,
+      "ccass_change": 11549
+    },
+    {
+      "name": "商汤－Ｗ",
+      "ccass_change_pct": -0.21999999999999886,
+      "price_change_pct": 0.0,
+      "ccass_change": 10000
+    },
+    {
+      "name": "长实集团",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.124,
+      "ccass_change": 10000
+    },
+    {
+      "name": "中国建材",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.179,
+      "ccass_change": 8000
+    },
+    {
+      "name": "中信银行",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 1.214,
+      "ccass_change": 6704
+    },
+    {
+      "name": "中煤能源",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 3.313,
+      "ccass_change": 6000
+    },
+    {
+      "name": "腾讯控股",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.389,
+      "ccass_change": 4500
+    },
+    {
+      "name": "友邦保险",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.502,
+      "ccass_change": 3000
+    },
+    {
+      "name": "洛阳钼业",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.761,
+      "ccass_change": 3000
+    },
+    {
+      "name": "电能实业",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.548,
+      "ccass_change": 2600
+    },
+    {
+      "name": "碧桂园",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.0,
+      "ccass_change": 2555
+    },
+    {
+      "name": "昆仑能源",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.26,
+      "ccass_change": 2000
+    },
+    {
+      "name": "中国中铁",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.489,
+      "ccass_change": 2000
+    },
+    {
+      "name": "复星国际",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.248,
+      "ccass_change": 2000
+    },
+    {
+      "name": "农业银行",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.486,
+      "ccass_change": 1999
+    },
+    {
+      "name": "合景悠活",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.515,
+      "ccass_change": 1538
+    },
+    {
+      "name": "新濠国际发展",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.464,
+      "ccass_change": 1100
+    },
+    {
+      "name": "新鸿基地产",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.58,
+      "ccass_change": 1000
+    },
+    {
+      "name": "中国重汽",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.748,
+      "ccass_change": 1000
+    },
+    {
+      "name": "民生银行",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 1.093,
+      "ccass_change": 864
+    },
+    {
+      "name": "瑞声科技",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.515,
+      "ccass_change": 500
+    },
+    {
+      "name": "中芯国际",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.602,
+      "ccass_change": 200
+    },
+    {
+      "name": "众安在线",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.596,
+      "ccass_change": 200
+    },
+    {
+      "name": "百度集团－ＳＷ",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.413,
+      "ccass_change": 100
+    },
+    {
+      "name": "网易－Ｓ",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.898,
+      "ccass_change": 100
+    },
+    {
+      "name": "美团－Ｗ",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.89,
+      "ccass_change": 29
+    },
+    {
+      "name": "长和",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.233,
+      "ccass_change": 0
+    },
+    {
+      "name": "新世界发展",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.171,
+      "ccass_change": 0
+    },
+    {
+      "name": "太古股份公司Ａ",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.294,
+      "ccass_change": 0
+    },
+    {
+      "name": "第一拖拉机股份",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 1.413,
+      "ccass_change": 0
+    },
+    {
+      "name": "信和置业",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 2.714,
+      "ccass_change": 0
+    },
+    {
+      "name": "恒隆地产",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.221,
+      "ccass_change": 0
+    },
+    {
+      "name": "中国儒意",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.299,
+      "ccass_change": 0
+    },
+    {
+      "name": "招商局港口",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.506,
+      "ccass_change": 0
+    },
+    {
+      "name": "中国旺旺",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.969,
+      "ccass_change": 0
+    },
+    {
+      "name": "吉利汽车",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -4.096,
+      "ccass_change": 0
+    },
+    {
+      "name": "阿里健康",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.87,
+      "ccass_change": 0
+    },
+    {
+      "name": "金蝶国际",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.112,
+      "ccass_change": 0
+    },
+    {
+      "name": "粤海投资",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.62,
+      "ccass_change": 0
+    },
+    {
+      "name": "比亚迪电子",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -4.826,
+      "ccass_change": 0
+    },
+    {
+      "name": "万洲国际",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.75,
+      "ccass_change": 0
+    },
+    {
+      "name": "东方海外国际",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 1.274,
+      "ccass_change": 0
+    },
+    {
+      "name": "康师傅控股",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.469,
+      "ccass_change": 0
+    },
+    {
+      "name": "马鞍山钢铁股份",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 1.866,
+      "ccass_change": 0
+    },
+    {
+      "name": "上海石油化工股份",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.813,
+      "ccass_change": 0
+    },
+    {
+      "name": "江西铜业股份",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -3.285,
+      "ccass_change": 0
+    },
+    {
+      "name": "中国燃气",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.538,
+      "ccass_change": 0
+    },
+    {
+      "name": "香港交易所",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.96,
+      "ccass_change": 0
+    },
+    {
+      "name": "北京控股",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 1.322,
+      "ccass_change": 0
+    },
+    {
+      "name": "敏实集团",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.398,
+      "ccass_change": 0
+    },
+    {
+      "name": "ASMPT",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 1.445,
+      "ccass_change": 0
+    },
+    {
+      "name": "裕元集团",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.189,
+      "ccass_change": 0
+    },
+    {
+      "name": "中骏商管",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -3.509,
+      "ccass_change": 0
+    },
+    {
+      "name": "创科实业",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -3.374,
+      "ccass_change": 0
+    },
+    {
+      "name": "中国海外发展",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.633,
+      "ccass_change": 0
+    },
+    {
+      "name": "陈唱国际",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.0,
+      "ccass_change": 0
+    },
+    {
+      "name": "中国联通",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.412,
+      "ccass_change": 0
+    },
+    {
+      "name": "阅文集团",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.434,
+      "ccass_change": 0
+    },
+    {
+      "name": "同程旅行",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.958,
+      "ccass_change": 0
+    },
+    {
+      "name": "中国铁塔",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.089,
+      "ccass_change": 0
+    },
+    {
+      "name": "世茂集团",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.176,
+      "ccass_change": 0
+    },
+    {
+      "name": "华润电力",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.615,
+      "ccass_change": 0
+    },
+    {
+      "name": "中教控股",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.419,
+      "ccass_change": 0
+    },
+    {
+      "name": "信义玻璃",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.623,
+      "ccass_change": 0
+    },
+    {
+      "name": "澳博控股",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.478,
+      "ccass_change": 0
+    },
+    {
+      "name": "中升控股",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.457,
+      "ccass_change": 0
+    },
+    {
+      "name": "海螺水泥",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.881,
+      "ccass_change": 0
+    },
+    {
+      "name": "顺腾国际控股",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.0,
+      "ccass_change": 0
+    },
+    {
+      "name": "龙湖集团",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.731,
+      "ccass_change": 0
+    },
+    {
+      "name": "大唐发电",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.0,
+      "ccass_change": 0
+    },
+    {
+      "name": "联想集团",
+      "ccass_change_pct": -0.009999999999990905,
+      "price_change_pct": 1.118,
+      "ccass_change": 0
+    },
+    {
+      "name": "长江基建集团",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.528,
+      "ccass_change": 0
+    },
+    {
+      "name": "恒安国际",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.076,
+      "ccass_change": 0
+    },
+    {
+      "name": "天津创业环保股份",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.0,
+      "ccass_change": 0
+    },
+    {
+      "name": "ＴＣＬ电子",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.784,
+      "ccass_change": 0
+    },
+    {
+      "name": "石药集团",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.342,
+      "ccass_change": 0
+    },
+    {
+      "name": "国药控股",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.009,
+      "ccass_change": 0
+    },
+    {
+      "name": "华润置地",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.738,
+      "ccass_change": 0
+    },
+    {
+      "name": "Ｈ＆Ｈ国际控股",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 2.529,
+      "ccass_change": 0
+    },
+    {
+      "name": "永利澳门",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.228,
+      "ccass_change": 0
+    },
+    {
+      "name": "中国生物制药",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -3.431,
+      "ccass_change": 0
+    },
+    {
+      "name": "五矿资源",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.22,
+      "ccass_change": 0
+    },
+    {
+      "name": "比亚迪股份",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.991,
+      "ccass_change": 0
+    },
+    {
+      "name": "中国有色矿业",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.953,
+      "ccass_change": 0
+    },
+    {
+      "name": "海丰国际",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.101,
+      "ccass_change": 0
+    },
+    {
+      "name": "华润建材科技",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.069,
+      "ccass_change": 0
+    },
+    {
+      "name": "耐世特",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.973,
+      "ccass_change": 0
+    },
+    {
+      "name": "新华保险",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.284,
+      "ccass_change": 0
+    },
+    {
+      "name": "中国人民保险集团",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.921,
+      "ccass_change": 0
+    },
+    {
+      "name": "中国信达",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.885,
+      "ccass_change": 0
+    },
+    {
+      "name": "中国宏桥",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.645,
+      "ccass_change": 0
+    },
+    {
+      "name": "上海复旦",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.891,
+      "ccass_change": 0
+    },
+    {
+      "name": "丘钛科技",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.952,
+      "ccass_change": 0
+    },
+    {
+      "name": "丽珠医药",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.142,
+      "ccass_change": 0
+    },
+    {
+      "name": "金斯瑞生物科技",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.48,
+      "ccass_change": 0
+    },
+    {
+      "name": "雅迪控股",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.826,
+      "ccass_change": 0
+    },
+    {
+      "name": "中粮家佳康",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.439,
+      "ccass_change": 0
+    },
+    {
+      "name": "ＪＳ环球生活",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.0,
+      "ccass_change": 0
+    },
+    {
+      "name": "中国中车",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.354,
+      "ccass_change": 0
+    },
+    {
+      "name": "赣锋锂业",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.937,
+      "ccass_change": 0
+    },
+    {
+      "name": "广发证券",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.0,
+      "ccass_change": 0
+    },
+    {
+      "name": "东方甄选",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 1.364,
+      "ccass_change": 0
+    },
+    {
+      "name": "中广核电力",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.0,
+      "ccass_change": 0
+    },
+    {
+      "name": "招金矿业",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -3.441,
+      "ccass_change": 0
+    },
+    {
+      "name": "平安好医生",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.337,
+      "ccass_change": 0
+    },
+    {
+      "name": "百威亚太",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.396,
+      "ccass_change": 0
+    },
+    {
+      "name": "中国科培",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.419,
+      "ccass_change": 0
+    },
+    {
+      "name": "猫眼娱乐",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.676,
+      "ccass_change": 0
+    },
+    {
+      "name": "中国旭阳集团",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 3.257,
+      "ccass_change": 0
+    },
+    {
+      "name": "融创中国",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.917,
+      "ccass_change": 0
+    },
+    {
+      "name": "中远海控",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.276,
+      "ccass_change": 0
+    },
+    {
+      "name": "周大福",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -3.802,
+      "ccass_change": 0
+    },
+    {
+      "name": "马可数字科技",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -4.132,
+      "ccass_change": 0
+    },
+    {
+      "name": "重庆银行",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.239,
+      "ccass_change": 0
+    },
+    {
+      "name": "太古地产",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.879,
+      "ccass_change": 0
+    },
+    {
+      "name": "敏华控股",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.237,
+      "ccass_change": 0
+    },
+    {
+      "name": "石四药集团",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.418,
+      "ccass_change": 0
+    },
+    {
+      "name": "金隅集团",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.282,
+      "ccass_change": 0
+    },
+    {
+      "name": "微盟集团",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.974,
+      "ccass_change": 0
+    },
+    {
+      "name": "理想汽车－Ｗ",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.408,
+      "ccass_change": 0
+    },
+    {
+      "name": "安踏体育",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.825,
+      "ccass_change": 0
+    },
+    {
+      "name": "富智康集团",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.691,
+      "ccass_change": 0
+    },
+    {
+      "name": "易居企业控股",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 1.818,
+      "ccass_change": 0
+    },
+    {
+      "name": "中铝国际",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.145,
+      "ccass_change": 0
+    },
+    {
+      "name": "先声药业",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.411,
+      "ccass_change": 0
+    },
+    {
+      "name": "中国联塑",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.335,
+      "ccass_change": 0
+    },
+    {
+      "name": "绿叶制药",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.527,
+      "ccass_change": 0
+    },
+    {
+      "name": "万科企业",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.685,
+      "ccass_change": 0
+    },
+    {
+      "name": "金风科技",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.606,
+      "ccass_change": 0
+    },
+    {
+      "name": "申洲国际",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.083,
+      "ccass_change": 0
+    },
+    {
+      "name": "理文造纸",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.744,
+      "ccass_change": 0
+    },
+    {
+      "name": "蒙牛乳业",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.73,
+      "ccass_change": 0
+    },
+    {
+      "name": "中国财险",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.91,
+      "ccass_change": 0
+    },
+    {
+      "name": "李宁",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -3.981,
+      "ccass_change": 0
+    },
+    {
+      "name": "长城汽车",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.504,
+      "ccass_change": 0
+    },
+    {
+      "name": "中航科工",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.0,
+      "ccass_change": 0
+    },
+    {
+      "name": "药明康德",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 1.559,
+      "ccass_change": 0
+    },
+    {
+      "name": "中国电力",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.606,
+      "ccass_change": 0
+    },
+    {
+      "name": "舜宇光学科技",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.773,
+      "ccass_change": 0
+    },
+    {
+      "name": "心动公司",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.552,
+      "ccass_change": 0
+    },
+    {
+      "name": "上海医药",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.593,
+      "ccass_change": 0
+    },
+    {
+      "name": "中海物业",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.474,
+      "ccass_change": 0
+    },
+    {
+      "name": "新奥能源",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.396,
+      "ccass_change": 0
+    },
+    {
+      "name": "玖龙纸业",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -3.593,
+      "ccass_change": 0
+    },
+    {
+      "name": "上海电气",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.254,
+      "ccass_change": 0
+    },
+    {
+      "name": "绿城服务",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.257,
+      "ccass_change": 0
+    },
+    {
+      "name": "神威药业",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.198,
+      "ccass_change": 0
+    },
+    {
+      "name": "紫金矿业",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.797,
+      "ccass_change": 0
+    },
+    {
+      "name": "中国建筑国际",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.225,
+      "ccass_change": 0
+    },
+    {
+      "name": "泰格医药",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -3.046,
+      "ccass_change": 0
+    },
+    {
+      "name": "重庆农村商业银行",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.838,
+      "ccass_change": 0
+    },
+    {
+      "name": "兖煤澳大利亚",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 4.997,
+      "ccass_change": 0
+    },
+    {
+      "name": "永达汽车",
+      "ccass_change_pct": 0.8999999999999915,
+      "price_change_pct": -2.655,
+      "ccass_change": 0
+    },
+    {
+      "name": "康龙化成",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.81,
+      "ccass_change": 0
+    },
+    {
+      "name": "协鑫科技",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.0,
+      "ccass_change": 0
+    },
+    {
+      "name": "青岛银行",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 2.826,
+      "ccass_change": 0
+    },
+    {
+      "name": "信义能源",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.0,
+      "ccass_change": 0
+    },
+    {
+      "name": "金山软件",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.221,
+      "ccass_change": 0
+    },
+    {
+      "name": "时代电气",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.323,
+      "ccass_change": 0
+    },
+    {
+      "name": "绿城中国",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.713,
+      "ccass_change": 0
+    },
+    {
+      "name": "中金公司",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.484,
+      "ccass_change": 0
+    },
+    {
+      "name": "东方证券",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.835,
+      "ccass_change": 0
+    },
+    {
+      "name": "卓越教育集团",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.898,
+      "ccass_change": 0
+    },
+    {
+      "name": "美的置业",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.303,
+      "ccass_change": 0
+    },
+    {
+      "name": "中信证券",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.044,
+      "ccass_change": 0
+    },
+    {
+      "name": "中信建投证券",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.632,
+      "ccass_change": 0
+    },
+    {
+      "name": "海吉亚医疗",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.397,
+      "ccass_change": 0
+    },
+    {
+      "name": "滔搏",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.997,
+      "ccass_change": 0
+    },
+    {
+      "name": "昭衍新药",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.609,
+      "ccass_change": 0
+    },
+    {
+      "name": "百济神州",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.874,
+      "ccass_change": 0
+    },
+    {
+      "name": "光大证券",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.107,
+      "ccass_change": 0
+    },
+    {
+      "name": "中国飞鹤",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 1.471,
+      "ccass_change": 0
+    },
+    {
+      "name": "青岛港",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 2.332,
+      "ccass_change": 0
+    },
+    {
+      "name": "中国光大银行",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.627,
+      "ccass_change": 0
+    },
+    {
+      "name": "昊海生物科技",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.565,
+      "ccass_change": 0
+    },
+    {
+      "name": "海底捞",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.6,
+      "ccass_change": 0
+    },
+    {
+      "name": "长飞光纤光缆",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -4.612,
+      "ccass_change": 0
+    },
+    {
+      "name": "中国银河",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.784,
+      "ccass_change": 0
+    },
+    {
+      "name": "HTSC",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.143,
+      "ccass_change": 0
+    },
+    {
+      "name": "思摩尔国际",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.525,
+      "ccass_change": 0
+    },
+    {
+      "name": "京东集团－ＳＷ",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.832,
+      "ccass_change": 0
+    },
+    {
+      "name": "哔哩哔哩－Ｗ",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.616,
+      "ccass_change": 0
+    },
+    {
+      "name": "农夫山泉",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.745,
+      "ccass_change": 0
+    },
+    {
+      "name": "九方智投控股",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 2.724,
+      "ccass_change": 0
+    },
+    {
+      "name": "十月稻田",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.784,
+      "ccass_change": 0
+    },
+    {
+      "name": "威海银行",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.0,
+      "ccass_change": 0
+    },
+    {
+      "name": "万国数据－ＳＷ",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.373,
+      "ccass_change": 0
+    },
+    {
+      "name": "健世科技－Ｂ",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.304,
+      "ccass_change": 0
+    },
+    {
+      "name": "贪玩",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 2.187,
+      "ccass_change": 0
+    },
+    {
+      "name": "名创优品",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.89,
+      "ccass_change": 0
+    },
+    {
+      "name": "微博－ＳＷ",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.699,
+      "ccass_change": 0
+    },
+    {
+      "name": "网易云音乐",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -3.526,
+      "ccass_change": 0
+    },
+    {
+      "name": "赤子城科技",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.569,
+      "ccass_change": 0
+    },
+    {
+      "name": "九毛九",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -2.094,
+      "ccass_change": 0
+    },
+    {
+      "name": "邮储银行",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 1.544,
+      "ccass_change": -1
+    },
+    {
+      "name": "兖矿能源",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 4.417,
+      "ccass_change": -30
+    },
+    {
+      "name": "中银香港",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.0,
+      "ccass_change": -499
+    },
+    {
+      "name": "东亚银行",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.0,
+      "ccass_change": -626
+    },
+    {
+      "name": "招商银行",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.786,
+      "ccass_change": -966
+    },
+    {
+      "name": "中国交通建设",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.106,
+      "ccass_change": -1000
+    },
+    {
+      "name": "易鑫集团",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -1.942,
+      "ccass_change": -1000
+    },
+    {
+      "name": "中国太平",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -4.265,
+      "ccass_change": -1820
+    },
+    {
+      "name": "中国铝业",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -3.518,
+      "ccass_change": -4000
+    },
+    {
+      "name": "波司登",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.703,
+      "ccass_change": -4000
+    },
+    {
+      "name": "银河娱乐",
+      "ccass_change_pct": 0.010000000000005116,
+      "price_change_pct": -1.111,
+      "ccass_change": -5000
+    },
+    {
+      "name": "交通银行",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 1.66,
+      "ccass_change": -5336
+    },
+    {
+      "name": "太古股份公司Ｂ",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.305,
+      "ccass_change": -7500
+    },
+    {
+      "name": "中国电信",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 1.59,
+      "ccass_change": -20000
+    },
+    {
+      "name": "领展房产基金",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": -0.615,
+      "ccass_change": -27475
+    },
+    {
+      "name": "华能国际电力股份",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.476,
+      "ccass_change": -100000
+    },
+    {
+      "name": "龙源电力",
+      "ccass_change_pct": 0.010000000000005116,
+      "price_change_pct": 0.158,
+      "ccass_change": -100000
+    },
+    {
+      "name": "西王置业",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.0,
+      "ccass_change": -100000
+    },
+    {
+      "name": "金川国际",
+      "ccass_change_pct": 0.0,
+      "price_change_pct": 0.0,
+      "ccass_change": -105500
+    },
+    {
+      "name": "汇丰控股",
+      "ccass_change_pct": -0.01999999999999602,
+      "price_change_pct": -1.736,
+      "ccass_change": -3545183
+    }
+  ],
+  "all": [
+    {
+      "code": "01233",
+      "name": "时代中国控股",
+      "ccass_change": 100295,
+      "ccass_change_pct": 0.010000000000005116,
+      "ccass_pct": 99.97,
+      "price": 0.051,
+      "price_change": -5.556,
+      "volume": 2454000,
+      "turnover": 125888.0,
+      "pe": 0.0,
+      "alert": "股价异动;"
+    },
+    {
+      "code": "01888",
+      "name": "建滔积层板",
+      "ccass_change": 3000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 36.77,
+      "price": 33.3,
+      "price_change": 7.907,
+      "volume": 32542512,
+      "turnover": 1037180321.36,
+      "pe": 42.477,
+      "alert": "股价异动;"
+    },
+    {
+      "code": "01268",
+      "name": "美东汽车",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 94.79,
+      "price": 1.01,
+      "price_change": -5.607,
+      "volume": 1669350,
+      "turnover": 1693908.0,
+      "pe": 0.0,
+      "alert": "股价异动;"
+    },
+    {
+      "code": "01347",
+      "name": "华虹半导体",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 47.21,
+      "price": 93.35,
+      "price_change": -6.369,
+      "volume": 23130532,
+      "turnover": 2188537543.35,
+      "pe": 373.974,
+      "alert": "股价异动;"
+    },
+    {
+      "code": "01877",
+      "name": "君实生物",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.99,
+      "price": 26.28,
+      "price_change": -5.874,
+      "volume": 4861800,
+      "turnover": 129128464.0,
+      "pe": 0.0,
+      "alert": "股价异动;"
+    },
+    {
+      "code": "02162",
+      "name": "康诺亚－Ｂ",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.14,
+      "price": 73.95,
+      "price_change": -6.392,
+      "volume": 4077264,
+      "turnover": 303774229.1,
+      "pe": 0.0,
+      "alert": "股价异动;"
+    },
+    {
+      "code": "02338",
+      "name": "潍柴动力",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.78,
+      "price": 35.5,
+      "price_change": 7.186,
+      "volume": 21971572,
+      "turnover": 774266557.1,
+      "pe": 25.185,
+      "alert": "股价异动;"
+    },
+    {
+      "code": "02500",
+      "name": "启明医疗－Ｂ",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 98.1,
+      "price": 1.96,
+      "price_change": -5.769,
+      "volume": 1120000,
+      "turnover": 2220145.0,
+      "pe": 0.0,
+      "alert": "股价异动;"
+    },
+    {
+      "code": "02883",
+      "name": "中海油田服务",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.89,
+      "price": 9.12,
+      "price_change": 5.434,
+      "volume": 19002000,
+      "turnover": 170909512.0,
+      "pe": 10.211,
+      "alert": "股价异动;"
+    },
+    {
+      "code": "06088",
+      "name": "FIT HON TENG",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.96,
+      "price": 7.65,
+      "price_change": -5.556,
+      "volume": 58489000,
+      "turnover": 450216824.7,
+      "pe": 44.578,
+      "alert": "股价异动;"
+    },
+    {
+      "code": "06158",
+      "name": "正荣地产",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.99,
+      "price": 0.017,
+      "price_change": 6.25,
+      "volume": 731000,
+      "turnover": 12257.0,
+      "pe": 0.0,
+      "alert": "股价异动;"
+    },
+    {
+      "code": "09868",
+      "name": "小鹏集团－Ｗ",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 72.44,
+      "price": 62.2,
+      "price_change": -6.255,
+      "volume": 22762544,
+      "turnover": 1429450143.2,
+      "pe": 0.0,
+      "alert": "股价异动;"
+    },
+    {
+      "code": "09926",
+      "name": "康方生物",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 97.06,
+      "price": 131.7,
+      "price_change": -11.788,
+      "volume": 17227512,
+      "turnover": 2318490220.6,
+      "pe": 0.0,
+      "alert": "股价异动;"
+    },
+    {
+      "code": "09930",
+      "name": "宏信建发",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 56.5,
+      "price": 0.92,
+      "price_change": -5.155,
+      "volume": 128000,
+      "turnover": 115940.0,
+      "pe": 16.611,
+      "alert": "股价异动;"
+    },
+    {
+      "code": "01801",
+      "name": "信达生物",
+      "ccass_change": null,
+      "ccass_change_pct": null,
+      "ccass_pct": null,
+      "price": 83.75,
+      "price_change": -5.045,
+      "volume": 12405928,
+      "turnover": 1046947704.05,
+      "pe": 157.196,
+      "alert": "股价异动;"
+    },
+    {
+      "code": "00220",
+      "name": "统一企业中国",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.96,
+      "price": 7.58,
+      "price_change": -3.929,
+      "volume": 12066350,
+      "turnover": 91792613.5,
+      "pe": 14.396,
+      "alert": "放量;"
+    },
+    {
+      "code": "00921",
+      "name": "海信家电",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.84,
+      "price": 20.84,
+      "price_change": -2.343,
+      "volume": 4141000,
+      "turnover": 86210368.0,
+      "pe": 8.059,
+      "alert": "放量;"
+    },
+    {
+      "code": "00995",
+      "name": "安徽皖通高速公路",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 90.09,
+      "price": 16.53,
+      "price_change": 0.977,
+      "volume": 1380000,
+      "turnover": 22793980.0,
+      "pe": 13.361,
+      "alert": "放量;"
+    },
+    {
+      "code": "01055",
+      "name": "中国南方航空股份",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 37.72,
+      "price": 4.11,
+      "price_change": -3.747,
+      "volume": 15998000,
+      "turnover": 65683438.0,
+      "pe": 74.21,
+      "alert": "放量;"
+    },
+    {
+      "code": "01157",
+      "name": "中联重科",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.77,
+      "price": 8.13,
+      "price_change": -1.335,
+      "volume": 8838968,
+      "turnover": 72402401.76,
+      "pe": 13.328,
+      "alert": "放量;"
+    },
+    {
+      "code": "01238",
+      "name": "宝龙地产",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.73,
+      "price": 0.239,
+      "price_change": -1.24,
+      "volume": 81000,
+      "turnover": 18902.0,
+      "pe": 0.0,
+      "alert": "放量;"
+    },
+    {
+      "code": "01408",
+      "name": "濠江机电",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 49.98,
+      "price": 0.44,
+      "price_change": 0.0,
+      "volume": 30000,
+      "turnover": 13200.0,
+      "pe": 112.813,
+      "alert": "放量;"
+    },
+    {
+      "code": "01812",
+      "name": "晨鸣纸业",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.71,
+      "price": 1.16,
+      "price_change": 2.655,
+      "volume": 746500,
+      "turnover": 863190.0,
+      "pe": 0.0,
+      "alert": "放量;"
+    },
+    {
+      "code": "02150",
+      "name": "奈雪的茶",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 72.58,
+      "price": 0.8,
+      "price_change": -4.762,
+      "volume": 4052500,
+      "turnover": 3270925.0,
+      "pe": 0.0,
+      "alert": "放量;"
+    },
+    {
+      "code": "02238",
+      "name": "广汽集团",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.88,
+      "price": 3.11,
+      "price_change": -1.582,
+      "volume": 7624042,
+      "turnover": 23754412.2,
+      "pe": 0.0,
+      "alert": "放量;"
+    },
+    {
+      "code": "06808",
+      "name": "高鑫零售",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 50.66,
+      "price": 1.4,
+      "price_change": -0.709,
+      "volume": 1128756,
+      "turnover": 1571805.34,
+      "pe": 32.049,
+      "alert": "放量;"
+    },
+    {
+      "code": "09658",
+      "name": "特海国际",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 94.04,
+      "price": 11.04,
+      "price_change": -2.646,
+      "volume": 252700,
+      "turnover": 2805568.0,
+      "pe": 23.588,
+      "alert": "放量;"
+    },
+    {
+      "code": "09909",
+      "name": "宝龙商业",
+      "ccass_change": -58000,
+      "ccass_change_pct": -0.00999999999999801,
+      "ccass_pct": 55.28,
+      "price": 2.42,
+      "price_change": -0.82,
+      "volume": 52500,
+      "turnover": 127285.0,
+      "pe": 6.001,
+      "alert": "放量;"
+    },
+    {
+      "code": "03692",
+      "name": "翰森制药",
+      "ccass_change": 9000000,
+      "ccass_change_pct": 0.14999999999999858,
+      "ccass_pct": 21.38,
+      "price": 38.86,
+      "price_change": -1.918,
+      "volume": 7458985,
+      "turnover": 293606964.0,
+      "pe": 37.655,
+      "alert": ""
+    },
+    {
+      "code": "00386",
+      "name": "中国石油化工股份",
+      "ccass_change": 2960000,
+      "ccass_change_pct": 0.010000000000005116,
+      "ccass_pct": 99.43,
+      "price": 4.58,
+      "price_change": 1.778,
+      "volume": 65386249,
+      "turnover": 297613598.61,
+      "pe": 15.411,
+      "alert": ""
+    },
+    {
+      "code": "00003",
+      "name": "香港中华煤气",
+      "ccass_change": 1117078,
+      "ccass_change_pct": 0.00999999999999801,
+      "ccass_pct": 52.6,
+      "price": 7.24,
+      "price_change": -0.413,
+      "volume": 8734276,
+      "turnover": 63170494.94,
+      "pe": 23.677,
+      "alert": ""
+    },
+    {
+      "code": "03988",
+      "name": "中国银行",
+      "ccass_change": 427332,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 97.87,
+      "price": 5.16,
+      "price_change": 0.978,
+      "volume": 75185253,
+      "turnover": 387400612.12,
+      "pe": 6.282,
+      "alert": ""
+    },
+    {
+      "code": "00883",
+      "name": "中国海洋石油",
+      "ccass_change": 200000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 32.22,
+      "price": 27.46,
+      "price_change": 2.158,
+      "volume": 73461172,
+      "turnover": 2000210868.26,
+      "pe": 9.629,
+      "alert": ""
+    },
+    {
+      "code": "00939",
+      "name": "建设银行",
+      "ccass_change": 167424,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 40.09,
+      "price": 8.88,
+      "price_change": 1.254,
+      "volume": 121548390,
+      "turnover": 1074913726.6,
+      "pe": 6.153,
+      "alert": ""
+    },
+    {
+      "code": "00371",
+      "name": "北控水务集团",
+      "ccass_change": 147000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 58.92,
+      "price": 2.82,
+      "price_change": 0.0,
+      "volume": 7172000,
+      "turnover": 20184240.0,
+      "pe": 17.465,
+      "alert": ""
+    },
+    {
+      "code": "00293",
+      "name": "国泰航空",
+      "ccass_change": 138000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 35.43,
+      "price": 11.79,
+      "price_change": -1.421,
+      "volume": 6220500,
+      "turnover": 73500848.5,
+      "pe": 7.106,
+      "alert": ""
+    },
+    {
+      "code": "00002",
+      "name": "中电控股",
+      "ccass_change": 134333,
+      "ccass_change_pct": 0.010000000000005116,
+      "ccass_pct": 56.95,
+      "price": 74.95,
+      "price_change": -0.266,
+      "volume": 991788,
+      "turnover": 74247294.2,
+      "pe": 18.061,
+      "alert": ""
+    },
+    {
+      "code": "00941",
+      "name": "中国移动",
+      "ccass_change": 125500,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 26.0,
+      "price": 84.1,
+      "price_change": 0.839,
+      "volume": 14976881,
+      "turnover": 1255772898.95,
+      "pe": 11.934,
+      "alert": ""
+    },
+    {
+      "code": "00012",
+      "name": "恒基地产",
+      "ccass_change": 106842,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 25.94,
+      "price": 30.36,
+      "price_change": -0.914,
+      "volume": 2491732,
+      "turnover": 75697605.16,
+      "pe": 25.895,
+      "alert": ""
+    },
+    {
+      "code": "01928",
+      "name": "金沙中国有限公司",
+      "ccass_change": 100000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 47.27,
+      "price": 16.89,
+      "price_change": -1.401,
+      "volume": 11642610,
+      "turnover": 196541351.44,
+      "pe": 19.542,
+      "alert": ""
+    },
+    {
+      "code": "00267",
+      "name": "中信股份",
+      "ccass_change": 75000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 30.74,
+      "price": 12.94,
+      "price_change": 0.232,
+      "volume": 7357000,
+      "turnover": 94890514.0,
+      "pe": 5.772,
+      "alert": ""
+    },
+    {
+      "code": "01810",
+      "name": "小米集团－Ｗ",
+      "ccass_change": 62399,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 82.62,
+      "price": 31.22,
+      "price_change": -1.824,
+      "volume": 98954102,
+      "turnover": 3068084806.38,
+      "pe": 17.364,
+      "alert": ""
+    },
+    {
+      "code": "01398",
+      "name": "工商银行",
+      "ccass_change": 59201,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.31,
+      "price": 7.21,
+      "price_change": 1.122,
+      "volume": 82320953,
+      "turnover": 590859744.52,
+      "pe": 6.495,
+      "alert": ""
+    },
+    {
+      "code": "09690",
+      "name": "途虎－Ｗ",
+      "ccass_change": 51835,
+      "ccass_change_pct": 0.009999999999990905,
+      "ccass_pct": 85.49,
+      "price": 13.69,
+      "price_change": 0.367,
+      "volume": 298900,
+      "turnover": 4051544.9,
+      "pe": 24.684,
+      "alert": ""
+    },
+    {
+      "code": "01088",
+      "name": "中国神华",
+      "ccass_change": 40000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.79,
+      "price": 47.5,
+      "price_change": 2.107,
+      "volume": 7445640,
+      "turnover": 351383727.22,
+      "pe": 15.682,
+      "alert": ""
+    },
+    {
+      "code": "00066",
+      "name": "港铁公司",
+      "ccass_change": 37932,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 21.19,
+      "price": 34.54,
+      "price_change": -0.804,
+      "volume": 1251656,
+      "turnover": 43246958.78,
+      "pe": 14.599,
+      "alert": ""
+    },
+    {
+      "code": "00857",
+      "name": "中国石油股份",
+      "ccass_change": 36000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.21,
+      "price": 11.01,
+      "price_change": 3.38,
+      "volume": 93125799,
+      "turnover": 1013138253.49,
+      "pe": 11.531,
+      "alert": ""
+    },
+    {
+      "code": "02318",
+      "name": "中国平安",
+      "ccass_change": 23500,
+      "ccass_change_pct": 0.010000000000005116,
+      "ccass_pct": 99.7,
+      "price": 60.65,
+      "price_change": -1.06,
+      "volume": 15405687,
+      "turnover": 932781127.45,
+      "pe": 16.186,
+      "alert": ""
+    },
+    {
+      "code": "02628",
+      "name": "中国人寿",
+      "ccass_change": 16000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 98.71,
+      "price": 26.9,
+      "price_change": -1.393,
+      "volume": 21807880,
+      "turnover": 585629070.84,
+      "pe": 46.542,
+      "alert": ""
+    },
+    {
+      "code": "01952",
+      "name": "云顶新耀",
+      "ccass_change": 12700,
+      "ccass_change_pct": 0.010000000000005116,
+      "ccass_pct": 99.93,
+      "price": 37.32,
+      "price_change": -3.864,
+      "volume": 2123500,
+      "turnover": 79976985.0,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "00291",
+      "name": "华润啤酒",
+      "ccass_change": 11549,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 47.99,
+      "price": 25.9,
+      "price_change": 0.155,
+      "volume": 2223981,
+      "turnover": 57428754.46,
+      "pe": 22.434,
+      "alert": ""
+    },
+    {
+      "code": "00020",
+      "name": "商汤－Ｗ",
+      "ccass_change": 10000,
+      "ccass_change_pct": -0.21999999999999886,
+      "ccass_pct": 97.51,
+      "price": 2.01,
+      "price_change": 0.0,
+      "volume": 152610099,
+      "turnover": 304820531.48,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "01113",
+      "name": "长实集团",
+      "ccass_change": 10000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 48.37,
+      "price": 48.22,
+      "price_change": -0.124,
+      "volume": 1702078,
+      "turnover": 81955415.36,
+      "pe": 15.516,
+      "alert": ""
+    },
+    {
+      "code": "03323",
+      "name": "中国建材",
+      "ccass_change": 8000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.57,
+      "price": 5.03,
+      "price_change": -1.179,
+      "volume": 22634166,
+      "turnover": 113879690.98,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "00998",
+      "name": "中信银行",
+      "ccass_change": 6704,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 79.64,
+      "price": 8.34,
+      "price_change": 1.214,
+      "volume": 13716520,
+      "turnover": 114236198.8,
+      "pe": 6.263,
+      "alert": ""
+    },
+    {
+      "code": "01898",
+      "name": "中煤能源",
+      "ccass_change": 6000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.69,
+      "price": 13.72,
+      "price_change": 3.313,
+      "volume": 17692000,
+      "turnover": 240701338.0,
+      "pe": 11.34,
+      "alert": ""
+    },
+    {
+      "code": "00700",
+      "name": "腾讯控股",
+      "ccass_change": 4500,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 77.46,
+      "price": 497.0,
+      "price_change": -1.389,
+      "volume": 16689296,
+      "turnover": 8300057739.42,
+      "pe": 18.095,
+      "alert": ""
+    },
+    {
+      "code": "01299",
+      "name": "友邦保险",
+      "ccass_change": 3000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.81,
+      "price": 81.95,
+      "price_change": -1.502,
+      "volume": 17135354,
+      "turnover": 1409226670.7,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "03993",
+      "name": "洛阳钼业",
+      "ccass_change": 3000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.29,
+      "price": 18.97,
+      "price_change": -1.761,
+      "volume": 27371116,
+      "turnover": 518606700.71,
+      "pe": 17.987,
+      "alert": ""
+    },
+    {
+      "code": "00006",
+      "name": "电能实业",
+      "ccass_change": 2600,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 58.39,
+      "price": 64.25,
+      "price_change": 0.548,
+      "volume": 524929,
+      "turnover": 33595886.3,
+      "pe": 21.877,
+      "alert": ""
+    },
+    {
+      "code": "02007",
+      "name": "碧桂园",
+      "ccass_change": 2555,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 75.72,
+      "price": 0.285,
+      "price_change": 0.0,
+      "volume": 85921342,
+      "turnover": 24554640.605,
+      "pe": 2.137,
+      "alert": ""
+    },
+    {
+      "code": "00135",
+      "name": "昆仑能源",
+      "ccass_change": 2000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.71,
+      "price": 7.71,
+      "price_change": 0.26,
+      "volume": 7237582,
+      "turnover": 56198912.5,
+      "pe": 11.257,
+      "alert": ""
+    },
+    {
+      "code": "00390",
+      "name": "中国中铁",
+      "ccass_change": 2000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.2,
+      "price": 4.11,
+      "price_change": 0.489,
+      "volume": 15909456,
+      "turnover": 65126711.76,
+      "pe": 4.369,
+      "alert": ""
+    },
+    {
+      "code": "00656",
+      "name": "复星国际",
+      "ccass_change": 2000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 87.75,
+      "price": 4.03,
+      "price_change": -0.248,
+      "volume": 6840000,
+      "turnover": 27459296.5,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "01288",
+      "name": "农业银行",
+      "ccass_change": 1999,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.41,
+      "price": 6.2,
+      "price_change": 0.486,
+      "volume": 36315000,
+      "turnover": 224698965.0,
+      "pe": 7.161,
+      "alert": ""
+    },
+    {
+      "code": "03913",
+      "name": "合景悠活",
+      "ccass_change": 1538,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 57.23,
+      "price": 0.193,
+      "price_change": -0.515,
+      "volume": 108000,
+      "turnover": 20838.0,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "00200",
+      "name": "新濠国际发展",
+      "ccass_change": 1100,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 57.1,
+      "price": 4.29,
+      "price_change": -0.464,
+      "volume": 1310000,
+      "turnover": 5594580.0,
+      "pe": 8.553,
+      "alert": ""
+    },
+    {
+      "code": "00016",
+      "name": "新鸿基地产",
+      "ccass_change": 1000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 51.26,
+      "price": 137.2,
+      "price_change": -0.58,
+      "volume": 1281874,
+      "turnover": 175641337.5,
+      "pe": 20.761,
+      "alert": ""
+    },
+    {
+      "code": "03808",
+      "name": "中国重汽",
+      "ccass_change": 1000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 28.8,
+      "price": 42.46,
+      "price_change": -0.748,
+      "volume": 3381730,
+      "turnover": 142812587.4,
+      "pe": 14.889,
+      "alert": ""
+    },
+    {
+      "code": "01988",
+      "name": "民生银行",
+      "ccass_change": 864,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.62,
+      "price": 3.7,
+      "price_change": 1.093,
+      "volume": 9565008,
+      "turnover": 35293692.66,
+      "pe": 5.294,
+      "alert": ""
+    },
+    {
+      "code": "02018",
+      "name": "瑞声科技",
+      "ccass_change": 500,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 97.15,
+      "price": 39.02,
+      "price_change": 0.515,
+      "volume": 3144006,
+      "turnover": 122596028.39,
+      "pe": 16.126,
+      "alert": ""
+    },
+    {
+      "code": "00981",
+      "name": "中芯国际",
+      "ccass_change": 200,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 74.87,
+      "price": 58.35,
+      "price_change": -1.602,
+      "volume": 43519504,
+      "turnover": 2562371277.1,
+      "pe": 83.114,
+      "alert": ""
+    },
+    {
+      "code": "06060",
+      "name": "众安在线",
+      "ccass_change": 200,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.96,
+      "price": 12.38,
+      "price_change": -2.596,
+      "volume": 5840959,
+      "turnover": 72618219.98,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "09888",
+      "name": "百度集团－ＳＷ",
+      "ccass_change": 100,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 81.78,
+      "price": 120.6,
+      "price_change": -0.413,
+      "volume": 3578049,
+      "turnover": 429974532.94,
+      "pe": 63.545,
+      "alert": ""
+    },
+    {
+      "code": "09999",
+      "name": "网易－Ｓ",
+      "ccass_change": 100,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 57.24,
+      "price": 177.6,
+      "price_change": -2.898,
+      "volume": 4507630,
+      "turnover": 801811484.4,
+      "pe": 15.112,
+      "alert": ""
+    },
+    {
+      "code": "03690",
+      "name": "美团－Ｗ",
+      "ccass_change": 29,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 89.2,
+      "price": 83.5,
+      "price_change": -0.89,
+      "volume": 17474278,
+      "turnover": 1448355995.2,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "00001",
+      "name": "长和",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 66.7,
+      "price": 64.65,
+      "price_change": 0.233,
+      "volume": 2757544,
+      "turnover": 178003207.65,
+      "pe": 20.871,
+      "alert": ""
+    },
+    {
+      "code": "00017",
+      "name": "新世界发展",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 64.79,
+      "price": 8.56,
+      "price_change": -2.171,
+      "volume": 3729772,
+      "turnover": 31698312.64,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "00019",
+      "name": "太古股份公司Ａ",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 40.28,
+      "price": 84.75,
+      "price_change": -0.294,
+      "volume": 429503,
+      "turnover": 36255011.2,
+      "pe": 38.955,
+      "alert": ""
+    },
+    {
+      "code": "00038",
+      "name": "第一拖拉机股份",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.38,
+      "price": 8.61,
+      "price_change": 1.413,
+      "volume": 3876000,
+      "turnover": 32839420.0,
+      "pe": 10.737,
+      "alert": ""
+    },
+    {
+      "code": "00083",
+      "name": "信和置业",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 55.98,
+      "price": 12.49,
+      "price_change": 2.714,
+      "volume": 3172482,
+      "turnover": 39212334.24,
+      "pe": 27.944,
+      "alert": ""
+    },
+    {
+      "code": "00101",
+      "name": "恒隆地产",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 61.32,
+      "price": 9.03,
+      "price_change": -0.221,
+      "volume": 3196000,
+      "turnover": 28838615.0,
+      "pe": 24.371,
+      "alert": ""
+    },
+    {
+      "code": "00136",
+      "name": "中国儒意",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 94.85,
+      "price": 1.52,
+      "price_change": -1.299,
+      "volume": 21292000,
+      "turnover": 32348280.0,
+      "pe": 12.028,
+      "alert": ""
+    },
+    {
+      "code": "00144",
+      "name": "招商局港口",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.66,
+      "price": 15.88,
+      "price_change": 0.506,
+      "volume": 2052000,
+      "turnover": 32214280.0,
+      "pe": 10.302,
+      "alert": ""
+    },
+    {
+      "code": "00151",
+      "name": "中国旺旺",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 39.04,
+      "price": 4.48,
+      "price_change": -1.969,
+      "volume": 926000,
+      "turnover": 4150381.0,
+      "pe": 11.239,
+      "alert": ""
+    },
+    {
+      "code": "00175",
+      "name": "吉利汽车",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 78.55,
+      "price": 23.88,
+      "price_change": -4.096,
+      "volume": 72336380,
+      "turnover": 1729961988.04,
+      "pe": 12.884,
+      "alert": ""
+    },
+    {
+      "code": "00241",
+      "name": "阿里健康",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 46.77,
+      "price": 4.56,
+      "price_change": -0.87,
+      "volume": 37704113,
+      "turnover": 172717673.26,
+      "pe": 47.143,
+      "alert": ""
+    },
+    {
+      "code": "00268",
+      "name": "金蝶国际",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.88,
+      "price": 8.89,
+      "price_change": -1.112,
+      "volume": 12978010,
+      "turnover": 115072961.8,
+      "pe": 299.913,
+      "alert": ""
+    },
+    {
+      "code": "00270",
+      "name": "粤海投资",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 42.78,
+      "price": 8.11,
+      "price_change": 0.62,
+      "volume": 2468627,
+      "turnover": 19988415.1,
+      "pe": 11.363,
+      "alert": ""
+    },
+    {
+      "code": "00285",
+      "name": "比亚迪电子",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 34.21,
+      "price": 26.82,
+      "price_change": -4.826,
+      "volume": 17382191,
+      "turnover": 467093110.96,
+      "pe": 15.495,
+      "alert": ""
+    },
+    {
+      "code": "00288",
+      "name": "万洲国际",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 63.06,
+      "price": 10.75,
+      "price_change": 0.75,
+      "volume": 7770778,
+      "turnover": 83148860.18,
+      "pe": 11.287,
+      "alert": ""
+    },
+    {
+      "code": "00316",
+      "name": "东方海外国际",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 51.91,
+      "price": 135.1,
+      "price_change": 1.274,
+      "volume": 620389,
+      "turnover": 83165763.5,
+      "pe": 7.563,
+      "alert": ""
+    },
+    {
+      "code": "00322",
+      "name": "康师傅控股",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.89,
+      "price": 12.74,
+      "price_change": -0.469,
+      "volume": 10470000,
+      "turnover": 132042012.0,
+      "pe": 14.377,
+      "alert": ""
+    },
+    {
+      "code": "00323",
+      "name": "马鞍山钢铁股份",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.25,
+      "price": 2.73,
+      "price_change": 1.866,
+      "volume": 12212000,
+      "turnover": 33673276.0,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "00338",
+      "name": "上海石油化工股份",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 92.57,
+      "price": 1.22,
+      "price_change": -0.813,
+      "volume": 11102000,
+      "turnover": 13641344.0,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "00358",
+      "name": "江西铜业股份",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.68,
+      "price": 37.1,
+      "price_change": -3.285,
+      "volume": 7615400,
+      "turnover": 284977817.0,
+      "pe": 15.619,
+      "alert": ""
+    },
+    {
+      "code": "00384",
+      "name": "中国燃气",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 73.83,
+      "price": 7.4,
+      "price_change": -0.538,
+      "volume": 2170276,
+      "turnover": 16061023.83,
+      "pe": 12.304,
+      "alert": ""
+    },
+    {
+      "code": "00388",
+      "name": "香港交易所",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 94.36,
+      "price": 412.6,
+      "price_change": -0.96,
+      "volume": 1564152,
+      "turnover": 647058413.0,
+      "pe": 29.296,
+      "alert": ""
+    },
+    {
+      "code": "00392",
+      "name": "北京控股",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 53.88,
+      "price": 32.2,
+      "price_change": 1.322,
+      "volume": 789000,
+      "turnover": 25248125.0,
+      "pe": 7.218,
+      "alert": ""
+    },
+    {
+      "code": "00425",
+      "name": "敏实集团",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.05,
+      "price": 35.06,
+      "price_change": -0.398,
+      "volume": 4290172,
+      "turnover": 146564353.4,
+      "pe": 13.453,
+      "alert": ""
+    },
+    {
+      "code": "00522",
+      "name": "ASMPT",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.65,
+      "price": 154.4,
+      "price_change": 1.445,
+      "volume": 4547126,
+      "turnover": 714303124.2,
+      "pe": 70.97,
+      "alert": ""
+    },
+    {
+      "code": "00551",
+      "name": "裕元集团",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 60.23,
+      "price": 14.96,
+      "price_change": -1.189,
+      "volume": 3318500,
+      "turnover": 49630439.0,
+      "pe": 8.072,
+      "alert": ""
+    },
+    {
+      "code": "00606",
+      "name": "中骏商管",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 48.48,
+      "price": 0.275,
+      "price_change": -3.509,
+      "volume": 440000,
+      "turnover": 127290.0,
+      "pe": 8.199,
+      "alert": ""
+    },
+    {
+      "code": "00669",
+      "name": "创科实业",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 91.66,
+      "price": 111.7,
+      "price_change": -3.374,
+      "volume": 3348401,
+      "turnover": 377577775.0,
+      "pe": 21.825,
+      "alert": ""
+    },
+    {
+      "code": "00688",
+      "name": "中国海外发展",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 51.2,
+      "price": 12.55,
+      "price_change": -0.633,
+      "volume": 8372111,
+      "turnover": 104460964.34,
+      "pe": 9.751,
+      "alert": ""
+    },
+    {
+      "code": "00693",
+      "name": "陈唱国际",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 52.52,
+      "price": 1.52,
+      "price_change": 0.0,
+      "volume": 0,
+      "turnover": 0.0,
+      "pe": 21.18,
+      "alert": ""
+    },
+    {
+      "code": "00762",
+      "name": "中国联通",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 19.93,
+      "price": 7.32,
+      "price_change": 0.412,
+      "volume": 8658000,
+      "turnover": 63001000.0,
+      "pe": 9.704,
+      "alert": ""
+    },
+    {
+      "code": "00772",
+      "name": "阅文集团",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 45.48,
+      "price": 26.12,
+      "price_change": -1.434,
+      "volume": 1659500,
+      "turnover": 43331270.2,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "00780",
+      "name": "同程旅行",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 79.67,
+      "price": 18.53,
+      "price_change": -1.958,
+      "volume": 2521788,
+      "turnover": 46537778.8,
+      "pe": 16.215,
+      "alert": ""
+    },
+    {
+      "code": "00788",
+      "name": "中国铁塔",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.8,
+      "price": 11.2,
+      "price_change": -0.089,
+      "volume": 4159100,
+      "turnover": 46456039.0,
+      "pe": 15.162,
+      "alert": ""
+    },
+    {
+      "code": "00813",
+      "name": "世茂集团",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 84.56,
+      "price": 0.168,
+      "price_change": -1.176,
+      "volume": 8820100,
+      "turnover": 1486618.5,
+      "pe": 0.058,
+      "alert": ""
+    },
+    {
+      "code": "00836",
+      "name": "华润电力",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 38.01,
+      "price": 19.64,
+      "price_change": 0.615,
+      "volume": 5484983,
+      "turnover": 107213059.91,
+      "pe": 6.998,
+      "alert": ""
+    },
+    {
+      "code": "00839",
+      "name": "中教控股",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.99,
+      "price": 2.42,
+      "price_change": -2.419,
+      "volume": 4015000,
+      "turnover": 9731865.0,
+      "pe": 6.205,
+      "alert": ""
+    },
+    {
+      "code": "00868",
+      "name": "信义玻璃",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 54.11,
+      "price": 9.57,
+      "price_change": -0.623,
+      "volume": 5632000,
+      "turnover": 53763661.0,
+      "pe": 13.847,
+      "alert": ""
+    },
+    {
+      "code": "00880",
+      "name": "澳博控股",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 96.79,
+      "price": 2.08,
+      "price_change": -0.478,
+      "volume": 3657841,
+      "turnover": 7602502.37,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "00881",
+      "name": "中升控股",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 89.21,
+      "price": 7.44,
+      "price_change": -1.457,
+      "volume": 3682420,
+      "turnover": 27278145.0,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "00914",
+      "name": "海螺水泥",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.87,
+      "price": 20.26,
+      "price_change": -0.881,
+      "volume": 5210291,
+      "turnover": 105133853.42,
+      "pe": 11.412,
+      "alert": ""
+    },
+    {
+      "code": "00932",
+      "name": "顺腾国际控股",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 81.42,
+      "price": 0.028,
+      "price_change": 0.0,
+      "volume": 0,
+      "turnover": 0.0,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "00960",
+      "name": "龙湖集团",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 89.09,
+      "price": 8.15,
+      "price_change": -0.731,
+      "volume": 5771218,
+      "turnover": 46777031.44,
+      "pe": 49.052,
+      "alert": ""
+    },
+    {
+      "code": "00991",
+      "name": "大唐发电",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.67,
+      "price": 2.61,
+      "price_change": 0.0,
+      "volume": 13792000,
+      "turnover": 36266138.0,
+      "pe": 7.258,
+      "alert": ""
+    },
+    {
+      "code": "00992",
+      "name": "联想集团",
+      "ccass_change": 0,
+      "ccass_change_pct": -0.009999999999990905,
+      "ccass_pct": 89.15,
+      "price": 11.76,
+      "price_change": 1.118,
+      "volume": 58824926,
+      "turnover": 685317304.51,
+      "pe": 13.342,
+      "alert": ""
+    },
+    {
+      "code": "01038",
+      "name": "长江基建集团",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 23.31,
+      "price": 65.95,
+      "price_change": -0.528,
+      "volume": 594632,
+      "turnover": 39139180.5,
+      "pe": 20.058,
+      "alert": ""
+    },
+    {
+      "code": "01044",
+      "name": "恒安国际",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 77.67,
+      "price": 26.46,
+      "price_change": -0.076,
+      "volume": 1961562,
+      "turnover": 51680533.8,
+      "pe": 10.707,
+      "alert": ""
+    },
+    {
+      "code": "01065",
+      "name": "天津创业环保股份",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.38,
+      "price": 4.35,
+      "price_change": 0.0,
+      "volume": 170000,
+      "turnover": 737520.0,
+      "pe": 7.131,
+      "alert": ""
+    },
+    {
+      "code": "01070",
+      "name": "ＴＣＬ电子",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 82.77,
+      "price": 13.76,
+      "price_change": -1.784,
+      "volume": 2851394,
+      "turnover": 39199946.22,
+      "pe": 13.273,
+      "alert": ""
+    },
+    {
+      "code": "01093",
+      "name": "石药集团",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.94,
+      "price": 8.8,
+      "price_change": 0.342,
+      "volume": 50950287,
+      "turnover": 446802633.9,
+      "pe": 23.357,
+      "alert": ""
+    },
+    {
+      "code": "01099",
+      "name": "国药控股",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.89,
+      "price": 19.63,
+      "price_change": -1.009,
+      "volume": 2780806,
+      "turnover": 54673055.7,
+      "pe": 7.724,
+      "alert": ""
+    },
+    {
+      "code": "01109",
+      "name": "华润置地",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 44.66,
+      "price": 32.26,
+      "price_change": -0.738,
+      "volume": 11136834,
+      "turnover": 357784506.04,
+      "pe": 8.165,
+      "alert": ""
+    },
+    {
+      "code": "01112",
+      "name": "Ｈ＆Ｈ国际控股",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.97,
+      "price": 14.19,
+      "price_change": 2.529,
+      "volume": 6222000,
+      "turnover": 88332987.5,
+      "pe": 41.25,
+      "alert": ""
+    },
+    {
+      "code": "01128",
+      "name": "永利澳门",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 38.23,
+      "price": 5.63,
+      "price_change": -1.228,
+      "volume": 1576000,
+      "turnover": 8909252.0,
+      "pe": 18.134,
+      "alert": ""
+    },
+    {
+      "code": "01177",
+      "name": "中国生物制药",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 74.04,
+      "price": 5.63,
+      "price_change": -3.431,
+      "volume": 53235755,
+      "turnover": 301996785.24,
+      "pe": 39.013,
+      "alert": ""
+    },
+    {
+      "code": "01208",
+      "name": "五矿资源",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.98,
+      "price": 9.1,
+      "price_change": 0.22,
+      "volume": 42925382,
+      "turnover": 391623314.84,
+      "pe": 27.776,
+      "alert": ""
+    },
+    {
+      "code": "01211",
+      "name": "比亚迪股份",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.94,
+      "price": 103.8,
+      "price_change": -2.991,
+      "volume": 23618273,
+      "turnover": 2440696150.8,
+      "pe": 26.128,
+      "alert": ""
+    },
+    {
+      "code": "01258",
+      "name": "中国有色矿业",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 40.66,
+      "price": 13.05,
+      "price_change": -1.953,
+      "volume": 8135766,
+      "turnover": 105486362.25,
+      "pe": 16.148,
+      "alert": ""
+    },
+    {
+      "code": "01308",
+      "name": "海丰国际",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 80.95,
+      "price": 32.62,
+      "price_change": -2.101,
+      "volume": 5959151,
+      "turnover": 194983670.0,
+      "pe": 9.091,
+      "alert": ""
+    },
+    {
+      "code": "01313",
+      "name": "华润建材科技",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 38.53,
+      "price": 1.42,
+      "price_change": -2.069,
+      "volume": 7483200,
+      "turnover": 10624732.0,
+      "pe": 18.575,
+      "alert": ""
+    },
+    {
+      "code": "01316",
+      "name": "耐世特",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.99,
+      "price": 5.09,
+      "price_change": -0.973,
+      "volume": 6375000,
+      "turnover": 32211720.0,
+      "pe": 15.915,
+      "alert": ""
+    },
+    {
+      "code": "01336",
+      "name": "新华保险",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.92,
+      "price": 48.78,
+      "price_change": -2.284,
+      "volume": 6328916,
+      "turnover": 310410916.94,
+      "pe": 25.863,
+      "alert": ""
+    },
+    {
+      "code": "01339",
+      "name": "中国人民保险集团",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.77,
+      "price": 5.38,
+      "price_change": -0.921,
+      "volume": 25715335,
+      "turnover": 137878995.89,
+      "pe": 13.894,
+      "alert": ""
+    },
+    {
+      "code": "01359",
+      "name": "中国信达",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.91,
+      "price": 1.12,
+      "price_change": -0.885,
+      "volume": 19812000,
+      "turnover": 22132095.0,
+      "pe": 20.223,
+      "alert": ""
+    },
+    {
+      "code": "01378",
+      "name": "中国宏桥",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.97,
+      "price": 35.34,
+      "price_change": -2.645,
+      "volume": 21420532,
+      "turnover": 759552993.56,
+      "pe": 13.356,
+      "alert": ""
+    },
+    {
+      "code": "01385",
+      "name": "上海复旦",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.97,
+      "price": 44.48,
+      "price_change": -0.891,
+      "volume": 3295862,
+      "turnover": 148261738.4,
+      "pe": 143.271,
+      "alert": ""
+    },
+    {
+      "code": "01478",
+      "name": "丘钛科技",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 90.56,
+      "price": 8.22,
+      "price_change": -2.952,
+      "volume": 5424000,
+      "turnover": 44566954.5,
+      "pe": 5.894,
+      "alert": ""
+    },
+    {
+      "code": "01513",
+      "name": "丽珠医药",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.9,
+      "price": 28.16,
+      "price_change": 0.142,
+      "volume": 497800,
+      "turnover": 13941805.0,
+      "pe": 11.177,
+      "alert": ""
+    },
+    {
+      "code": "01548",
+      "name": "金斯瑞生物科技",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 64.63,
+      "price": 13.98,
+      "price_change": -1.48,
+      "volume": 4958479,
+      "turnover": 69753636.21,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "01585",
+      "name": "雅迪控股",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 35.57,
+      "price": 12.0,
+      "price_change": -0.826,
+      "volume": 4897440,
+      "turnover": 58805860.0,
+      "pe": 11.287,
+      "alert": ""
+    },
+    {
+      "code": "01610",
+      "name": "中粮家佳康",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 76.39,
+      "price": 1.37,
+      "price_change": -1.439,
+      "volume": 7700000,
+      "turnover": 10553534.0,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "01691",
+      "name": "ＪＳ环球生活",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.99,
+      "price": 1.72,
+      "price_change": 0.0,
+      "volume": 3477500,
+      "turnover": 5952940.0,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "01766",
+      "name": "中国中车",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.75,
+      "price": 5.1,
+      "price_change": -1.354,
+      "volume": 10522000,
+      "turnover": 53494585.0,
+      "pe": 9.997,
+      "alert": ""
+    },
+    {
+      "code": "01772",
+      "name": "赣锋锂业",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.98,
+      "price": 76.0,
+      "price_change": -2.937,
+      "volume": 8098285,
+      "turnover": 618211111.0,
+      "pe": 85.615,
+      "alert": ""
+    },
+    {
+      "code": "01776",
+      "name": "广发证券",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.92,
+      "price": 17.15,
+      "price_change": 0.0,
+      "volume": 4578409,
+      "turnover": 79042160.86,
+      "pe": 9.199,
+      "alert": ""
+    },
+    {
+      "code": "01797",
+      "name": "东方甄选",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 53.02,
+      "price": 28.24,
+      "price_change": 1.364,
+      "volume": 10141100,
+      "turnover": 296176910.0,
+      "pe": 2585.915,
+      "alert": ""
+    },
+    {
+      "code": "01816",
+      "name": "中广核电力",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.81,
+      "price": 3.43,
+      "price_change": 0.0,
+      "volume": 11668400,
+      "turnover": 39894969.0,
+      "pe": 15.99,
+      "alert": ""
+    },
+    {
+      "code": "01818",
+      "name": "招金矿业",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.73,
+      "price": 29.18,
+      "price_change": -3.441,
+      "volume": 7693570,
+      "turnover": 225528281.3,
+      "pe": 27.385,
+      "alert": ""
+    },
+    {
+      "code": "01833",
+      "name": "平安好医生",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 55.89,
+      "price": 11.81,
+      "price_change": -1.337,
+      "volume": 3128842,
+      "turnover": 36881874.08,
+      "pe": 59.141,
+      "alert": ""
+    },
+    {
+      "code": "01876",
+      "name": "百威亚太",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 12.77,
+      "price": 7.6,
+      "price_change": 0.396,
+      "volume": 4071050,
+      "turnover": 30829778.0,
+      "pe": 26.332,
+      "alert": ""
+    },
+    {
+      "code": "01890",
+      "name": "中国科培",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.95,
+      "price": 1.21,
+      "price_change": -2.419,
+      "volume": 280000,
+      "turnover": 340080.0,
+      "pe": 2.96,
+      "alert": ""
+    },
+    {
+      "code": "01896",
+      "name": "猫眼娱乐",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.57,
+      "price": 5.88,
+      "price_change": -0.676,
+      "volume": 943400,
+      "turnover": 5571244.0,
+      "pe": 10.815,
+      "alert": ""
+    },
+    {
+      "code": "01907",
+      "name": "中国旭阳集团",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 42.44,
+      "price": 3.17,
+      "price_change": 3.257,
+      "volume": 41852000,
+      "turnover": 131845960.0,
+      "pe": 225.769,
+      "alert": ""
+    },
+    {
+      "code": "01918",
+      "name": "融创中国",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.96,
+      "price": 1.08,
+      "price_change": -0.917,
+      "volume": 115187000,
+      "turnover": 123865290.0,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "01919",
+      "name": "中远海控",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.67,
+      "price": 14.51,
+      "price_change": 0.276,
+      "volume": 8053718,
+      "turnover": 116435374.24,
+      "pe": 6.571,
+      "alert": ""
+    },
+    {
+      "code": "01929",
+      "name": "周大福",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 17.94,
+      "price": 10.88,
+      "price_change": -3.802,
+      "volume": 16392300,
+      "turnover": 179230933.2,
+      "pe": 18.328,
+      "alert": ""
+    },
+    {
+      "code": "01942",
+      "name": "马可数字科技",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.99,
+      "price": 0.232,
+      "price_change": -4.132,
+      "volume": 1974000,
+      "turnover": 466370.0,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "01963",
+      "name": "重庆银行",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 74.26,
+      "price": 8.38,
+      "price_change": 0.239,
+      "volume": 562108,
+      "turnover": 4703197.1,
+      "pe": 4.935,
+      "alert": ""
+    },
+    {
+      "code": "01972",
+      "name": "太古地产",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 16.25,
+      "price": 24.82,
+      "price_change": -0.879,
+      "volume": 974672,
+      "turnover": 24260567.32,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "01999",
+      "name": "敏华控股",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 42.55,
+      "price": 4.23,
+      "price_change": 0.237,
+      "volume": 1956400,
+      "turnover": 8234386.0,
+      "pe": 7.928,
+      "alert": ""
+    },
+    {
+      "code": "02005",
+      "name": "石四药集团",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 98.21,
+      "price": 2.38,
+      "price_change": -0.418,
+      "volume": 2954000,
+      "turnover": 7012500.0,
+      "pe": 14.811,
+      "alert": ""
+    },
+    {
+      "code": "02009",
+      "name": "金隅集团",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.43,
+      "price": 0.77,
+      "price_change": -1.282,
+      "volume": 2701000,
+      "turnover": 2069550.0,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "02013",
+      "name": "微盟集团",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.98,
+      "price": 1.49,
+      "price_change": -1.974,
+      "volume": 33040000,
+      "turnover": 49429685.0,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "02015",
+      "name": "理想汽车－Ｗ",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 59.06,
+      "price": 73.75,
+      "price_change": 0.408,
+      "volume": 4980200,
+      "turnover": 360367177.3,
+      "pe": 118.626,
+      "alert": ""
+    },
+    {
+      "code": "02020",
+      "name": "安踏体育",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 51.98,
+      "price": 84.1,
+      "price_change": -0.825,
+      "volume": 5087530,
+      "turnover": 428760235.68,
+      "pe": 15.497,
+      "alert": ""
+    },
+    {
+      "code": "02038",
+      "name": "富智康集团",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.24,
+      "price": 25.88,
+      "price_change": -0.691,
+      "volume": 1403577,
+      "turnover": 36738245.42,
+      "pe": 49.518,
+      "alert": ""
+    },
+    {
+      "code": "02048",
+      "name": "易居企业控股",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 97.84,
+      "price": 0.056,
+      "price_change": 1.818,
+      "volume": 900,
+      "turnover": 52.2,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "02068",
+      "name": "中铝国际",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.99,
+      "price": 2.59,
+      "price_change": -1.145,
+      "volume": 1720000,
+      "turnover": 4450780.0,
+      "pe": 63.852,
+      "alert": ""
+    },
+    {
+      "code": "02096",
+      "name": "先声药业",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 56.61,
+      "price": 12.58,
+      "price_change": -1.411,
+      "volume": 5279000,
+      "turnover": 67002555.0,
+      "pe": 20.999,
+      "alert": ""
+    },
+    {
+      "code": "02128",
+      "name": "中国联塑",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.97,
+      "price": 4.6,
+      "price_change": -2.335,
+      "volume": 6559000,
+      "turnover": 30178527.0,
+      "pe": 10.115,
+      "alert": ""
+    },
+    {
+      "code": "02186",
+      "name": "绿叶制药",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.98,
+      "price": 2.7,
+      "price_change": -2.527,
+      "volume": 12071000,
+      "turnover": 32647741.0,
+      "pe": 15.316,
+      "alert": ""
+    },
+    {
+      "code": "02202",
+      "name": "万科企业",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.99,
+      "price": 2.9,
+      "price_change": -2.685,
+      "volume": 9474843,
+      "turnover": 27653910.73,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "02208",
+      "name": "金风科技",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.87,
+      "price": 15.93,
+      "price_change": -1.606,
+      "volume": 17091545,
+      "turnover": 270142308.54,
+      "pe": 22.417,
+      "alert": ""
+    },
+    {
+      "code": "02313",
+      "name": "申洲国际",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 54.22,
+      "price": 48.5,
+      "price_change": 0.083,
+      "volume": 3531100,
+      "turnover": 170141938.9,
+      "pe": 11.264,
+      "alert": ""
+    },
+    {
+      "code": "02314",
+      "name": "理文造纸",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 56.35,
+      "price": 3.38,
+      "price_change": -1.744,
+      "volume": 1521000,
+      "turnover": 5123510.0,
+      "pe": 7.458,
+      "alert": ""
+    },
+    {
+      "code": "02319",
+      "name": "蒙牛乳业",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 85.95,
+      "price": 16.32,
+      "price_change": -0.73,
+      "volume": 12276227,
+      "turnover": 200708126.24,
+      "pe": 37.161,
+      "alert": ""
+    },
+    {
+      "code": "02328",
+      "name": "中国财险",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.23,
+      "price": 14.16,
+      "price_change": -0.91,
+      "volume": 11745790,
+      "turnover": 166584655.89,
+      "pe": 11.616,
+      "alert": ""
+    },
+    {
+      "code": "02331",
+      "name": "李宁",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.96,
+      "price": 19.78,
+      "price_change": -3.981,
+      "volume": 21662385,
+      "turnover": 427981603.41,
+      "pe": 15.643,
+      "alert": ""
+    },
+    {
+      "code": "02333",
+      "name": "长城汽车",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.41,
+      "price": 13.1,
+      "price_change": -1.504,
+      "volume": 11089690,
+      "turnover": 144472227.64,
+      "pe": 10.178,
+      "alert": ""
+    },
+    {
+      "code": "02357",
+      "name": "中航科工",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.93,
+      "price": 3.63,
+      "price_change": 0.0,
+      "volume": 8104000,
+      "turnover": 29257120.0,
+      "pe": 14.82,
+      "alert": ""
+    },
+    {
+      "code": "02359",
+      "name": "药明康德",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.98,
+      "price": 123.8,
+      "price_change": 1.559,
+      "volume": 1970447,
+      "turnover": 242269486.6,
+      "pe": 16.599,
+      "alert": ""
+    },
+    {
+      "code": "02380",
+      "name": "中国电力",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 42.88,
+      "price": 3.32,
+      "price_change": 0.606,
+      "volume": 11963000,
+      "turnover": 39616235.0,
+      "pe": 12.481,
+      "alert": ""
+    },
+    {
+      "code": "02382",
+      "name": "舜宇光学科技",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.93,
+      "price": 63.7,
+      "price_change": -1.773,
+      "volume": 5187388,
+      "turnover": 331532829.0,
+      "pe": 13.456,
+      "alert": ""
+    },
+    {
+      "code": "02400",
+      "name": "心动公司",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.55,
+      "price": 63.05,
+      "price_change": -0.552,
+      "volume": 1154400,
+      "turnover": 72090935.4,
+      "pe": 17.811,
+      "alert": ""
+    },
+    {
+      "code": "02607",
+      "name": "上海医药",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.9,
+      "price": 11.87,
+      "price_change": 0.593,
+      "volume": 1293200,
+      "turnover": 15313813.0,
+      "pe": 6.945,
+      "alert": ""
+    },
+    {
+      "code": "02669",
+      "name": "中海物业",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 45.87,
+      "price": 4.01,
+      "price_change": -1.474,
+      "volume": 4077000,
+      "turnover": 16331670.0,
+      "pe": 8.684,
+      "alert": ""
+    },
+    {
+      "code": "02688",
+      "name": "新奥能源",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.63,
+      "price": 62.9,
+      "price_change": -0.396,
+      "volume": 1634900,
+      "turnover": 102619369.5,
+      "pe": 10.673,
+      "alert": ""
+    },
+    {
+      "code": "02689",
+      "name": "玖龙纸业",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 41.56,
+      "price": 6.44,
+      "price_change": -3.593,
+      "volume": 3896000,
+      "turnover": 25145238.0,
+      "pe": 15.548,
+      "alert": ""
+    },
+    {
+      "code": "02727",
+      "name": "上海电气",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.85,
+      "price": 3.94,
+      "price_change": 0.254,
+      "volume": 28394000,
+      "turnover": 112624900.0,
+      "pe": 45.504,
+      "alert": ""
+    },
+    {
+      "code": "02869",
+      "name": "绿城服务",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.99,
+      "price": 4.33,
+      "price_change": -2.257,
+      "volume": 1992000,
+      "turnover": 8610648.0,
+      "pe": 13.947,
+      "alert": ""
+    },
+    {
+      "code": "02877",
+      "name": "神威药业",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 33.85,
+      "price": 10.12,
+      "price_change": 0.198,
+      "volume": 471000,
+      "turnover": 4764595.0,
+      "pe": 7.236,
+      "alert": ""
+    },
+    {
+      "code": "02899",
+      "name": "紫金矿业",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.78,
+      "price": 37.16,
+      "price_change": -1.797,
+      "volume": 46088309,
+      "turnover": 1715908278.4,
+      "pe": 17.173,
+      "alert": ""
+    },
+    {
+      "code": "03311",
+      "name": "中国建筑国际",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 46.36,
+      "price": 8.86,
+      "price_change": -0.225,
+      "volume": 4277840,
+      "turnover": 37982887.5,
+      "pe": 4.869,
+      "alert": ""
+    },
+    {
+      "code": "03347",
+      "name": "泰格医药",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.98,
+      "price": 41.38,
+      "price_change": -3.046,
+      "volume": 407300,
+      "turnover": 17045206.0,
+      "pe": 35.843,
+      "alert": ""
+    },
+    {
+      "code": "03618",
+      "name": "重庆农村商业银行",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.75,
+      "price": 7.22,
+      "price_change": 0.838,
+      "volume": 1834000,
+      "turnover": 13261145.0,
+      "pe": 6.195,
+      "alert": ""
+    },
+    {
+      "code": "03668",
+      "name": "兖煤澳大利亚",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 14.01,
+      "price": 40.34,
+      "price_change": 4.997,
+      "volume": 1868200,
+      "turnover": 74789360.5,
+      "pe": 23.211,
+      "alert": ""
+    },
+    {
+      "code": "03669",
+      "name": "永达汽车",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.8999999999999915,
+      "ccass_pct": 99.99,
+      "price": 1.1,
+      "price_change": -2.655,
+      "volume": 2552500,
+      "turnover": 2779410.5,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "03759",
+      "name": "康龙化成",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.98,
+      "price": 20.62,
+      "price_change": -1.81,
+      "volume": 3152350,
+      "turnover": 65124445.0,
+      "pe": 19.683,
+      "alert": ""
+    },
+    {
+      "code": "03800",
+      "name": "协鑫科技",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.98,
+      "price": 1.0,
+      "price_change": 0.0,
+      "volume": 137838000,
+      "turnover": 138476645.0,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "03866",
+      "name": "青岛银行",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 55.64,
+      "price": 4.73,
+      "price_change": 2.826,
+      "volume": 3218000,
+      "turnover": 15081947.5,
+      "pe": 5.015,
+      "alert": ""
+    },
+    {
+      "code": "03868",
+      "name": "信义能源",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 31.24,
+      "price": 1.19,
+      "price_change": 0.0,
+      "volume": 4078000,
+      "turnover": 4834460.0,
+      "pe": 8.921,
+      "alert": ""
+    },
+    {
+      "code": "03888",
+      "name": "金山软件",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.8,
+      "price": 24.28,
+      "price_change": -1.221,
+      "volume": 4219660,
+      "turnover": 102251760.6,
+      "pe": 14.986,
+      "alert": ""
+    },
+    {
+      "code": "03898",
+      "name": "时代电气",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.73,
+      "price": 37.08,
+      "price_change": -0.323,
+      "volume": 1359799,
+      "turnover": 50322664.82,
+      "pe": 11.174,
+      "alert": ""
+    },
+    {
+      "code": "03900",
+      "name": "绿城中国",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 79.12,
+      "price": 9.18,
+      "price_change": -1.713,
+      "volume": 3721000,
+      "turnover": 34257555.0,
+      "pe": 273.685,
+      "alert": ""
+    },
+    {
+      "code": "03908",
+      "name": "中金公司",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.96,
+      "price": 20.54,
+      "price_change": -0.484,
+      "volume": 8028370,
+      "turnover": 164735850.155,
+      "pe": 9.844,
+      "alert": ""
+    },
+    {
+      "code": "03958",
+      "name": "东方证券",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.97,
+      "price": 5.94,
+      "price_change": -0.835,
+      "volume": 8210000,
+      "turnover": 48833330.0,
+      "pe": 8.232,
+      "alert": ""
+    },
+    {
+      "code": "03978",
+      "name": "卓越教育集团",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 98.19,
+      "price": 3.31,
+      "price_change": -0.898,
+      "volume": 356000,
+      "turnover": 1173970.0,
+      "pe": 7.537,
+      "alert": ""
+    },
+    {
+      "code": "03990",
+      "name": "美的置业",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 95.28,
+      "price": 3.29,
+      "price_change": -0.303,
+      "volume": 163200,
+      "turnover": 537580.0,
+      "pe": 7.599,
+      "alert": ""
+    },
+    {
+      "code": "06030",
+      "name": "中信证券",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 83.38,
+      "price": 26.84,
+      "price_change": -2.044,
+      "volume": 3700119,
+      "turnover": 99572427.6,
+      "pe": 12.337,
+      "alert": ""
+    },
+    {
+      "code": "06066",
+      "name": "中信建投证券",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 72.08,
+      "price": 10.85,
+      "price_change": -1.632,
+      "volume": 1911000,
+      "turnover": 20788755.0,
+      "pe": 8.968,
+      "alert": ""
+    },
+    {
+      "code": "06078",
+      "name": "海吉亚医疗",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.99,
+      "price": 12.0,
+      "price_change": -1.397,
+      "volume": 1796400,
+      "turnover": 21507897.2,
+      "pe": 40.062,
+      "alert": ""
+    },
+    {
+      "code": "06110",
+      "name": "滔搏",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 76.72,
+      "price": 2.98,
+      "price_change": -0.997,
+      "volume": 3474935,
+      "turnover": 10337459.55,
+      "pe": 13.219,
+      "alert": ""
+    },
+    {
+      "code": "06127",
+      "name": "昭衍新药",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.98,
+      "price": 22.4,
+      "price_change": -2.609,
+      "volume": 1426704,
+      "turnover": 31886792.84,
+      "pe": 50.468,
+      "alert": ""
+    },
+    {
+      "code": "06160",
+      "name": "百济神州",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 40.35,
+      "price": 183.3,
+      "price_change": -1.874,
+      "volume": 1895382,
+      "turnover": 351348912.9,
+      "pe": 117.492,
+      "alert": ""
+    },
+    {
+      "code": "06178",
+      "name": "光大证券",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.94,
+      "price": 7.9,
+      "price_change": -2.107,
+      "volume": 939600,
+      "turnover": 7445474.0,
+      "pe": 9.747,
+      "alert": ""
+    },
+    {
+      "code": "06186",
+      "name": "中国飞鹤",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 75.66,
+      "price": 3.45,
+      "price_change": 1.471,
+      "volume": 26002249,
+      "turnover": 89585096.6,
+      "pe": 14.792,
+      "alert": ""
+    },
+    {
+      "code": "06198",
+      "name": "青岛港",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.97,
+      "price": 7.9,
+      "price_change": 2.332,
+      "volume": 3001000,
+      "turnover": 23590129.0,
+      "pe": 8.791,
+      "alert": ""
+    },
+    {
+      "code": "06818",
+      "name": "中国光大银行",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 41.31,
+      "price": 3.17,
+      "price_change": -0.627,
+      "volume": 4226000,
+      "turnover": 13403940.0,
+      "pe": 4.926,
+      "alert": ""
+    },
+    {
+      "code": "06826",
+      "name": "昊海生物科技",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.71,
+      "price": 21.38,
+      "price_change": -1.565,
+      "volume": 52600,
+      "turnover": 1131086.0,
+      "pe": 17.832,
+      "alert": ""
+    },
+    {
+      "code": "06862",
+      "name": "海底捞",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 97.71,
+      "price": 14.76,
+      "price_change": -1.6,
+      "volume": 4101770,
+      "turnover": 60673158.2,
+      "pe": 17.734,
+      "alert": ""
+    },
+    {
+      "code": "06869",
+      "name": "长飞光纤光缆",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.97,
+      "price": 235.8,
+      "price_change": -4.612,
+      "volume": 16555278,
+      "turnover": 4021752668.0,
+      "pe": 198.613,
+      "alert": ""
+    },
+    {
+      "code": "06881",
+      "name": "中国银河",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.95,
+      "price": 8.38,
+      "price_change": -2.784,
+      "volume": 11069000,
+      "turnover": 93513010.5,
+      "pe": 7.333,
+      "alert": ""
+    },
+    {
+      "code": "06886",
+      "name": "HTSC",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.85,
+      "price": 15.98,
+      "price_change": -2.143,
+      "volume": 2747994,
+      "turnover": 44293148.8,
+      "pe": 8.324,
+      "alert": ""
+    },
+    {
+      "code": "06969",
+      "name": "思摩尔国际",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.99,
+      "price": 9.58,
+      "price_change": 0.525,
+      "volume": 8207838,
+      "turnover": 78485692.9,
+      "pe": 49.521,
+      "alert": ""
+    },
+    {
+      "code": "09618",
+      "name": "京东集团－ＳＷ",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 77.14,
+      "price": 119.2,
+      "price_change": -0.832,
+      "volume": 2300490,
+      "turnover": 273807559.15,
+      "pe": 15.588,
+      "alert": ""
+    },
+    {
+      "code": "09626",
+      "name": "哔哩哔哩－Ｗ",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 66.28,
+      "price": 177.5,
+      "price_change": -0.616,
+      "volume": 2307281,
+      "turnover": 405419661.6,
+      "pe": 56.116,
+      "alert": ""
+    },
+    {
+      "code": "09633",
+      "name": "农夫山泉",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.99,
+      "price": 47.3,
+      "price_change": -1.745,
+      "volume": 2807494,
+      "turnover": 132612974.8,
+      "pe": 30.213,
+      "alert": ""
+    },
+    {
+      "code": "09636",
+      "name": "九方智投控股",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 68.9,
+      "price": 31.68,
+      "price_change": 2.724,
+      "volume": 3643700,
+      "turnover": 115150958.0,
+      "pe": 13.923,
+      "alert": ""
+    },
+    {
+      "code": "09676",
+      "name": "十月稻田",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.99,
+      "price": 6.43,
+      "price_change": 0.784,
+      "volume": 135300,
+      "turnover": 870705.0,
+      "pe": 14.487,
+      "alert": ""
+    },
+    {
+      "code": "09677",
+      "name": "威海银行",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 86.15,
+      "price": 2.71,
+      "price_change": 0.0,
+      "volume": 0,
+      "turnover": 0.0,
+      "pe": 6.976,
+      "alert": ""
+    },
+    {
+      "code": "09698",
+      "name": "万国数据－ＳＷ",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 66.36,
+      "price": 42.72,
+      "price_change": -0.373,
+      "volume": 2131142,
+      "turnover": 90353304.92,
+      "pe": 65.275,
+      "alert": ""
+    },
+    {
+      "code": "09877",
+      "name": "健世科技－Ｂ",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.99,
+      "price": 9.84,
+      "price_change": -0.304,
+      "volume": 30400,
+      "turnover": 299318.0,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "09890",
+      "name": "贪玩",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 60.65,
+      "price": 15.42,
+      "price_change": 2.187,
+      "volume": 1320400,
+      "turnover": 20148072.0,
+      "pe": 4.91,
+      "alert": ""
+    },
+    {
+      "code": "09896",
+      "name": "名创优品",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 42.57,
+      "price": 28.9,
+      "price_change": -2.89,
+      "volume": 3751600,
+      "turnover": 108036278.0,
+      "pe": 26.577,
+      "alert": ""
+    },
+    {
+      "code": "09898",
+      "name": "微博－ＳＷ",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 25.5,
+      "price": 66.55,
+      "price_change": -1.699,
+      "volume": 112000,
+      "turnover": 7448702.0,
+      "pe": 4.538,
+      "alert": ""
+    },
+    {
+      "code": "09899",
+      "name": "网易云音乐",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 45.78,
+      "price": 120.4,
+      "price_change": -3.526,
+      "volume": 520794,
+      "turnover": 62971332.25,
+      "pe": 8.332,
+      "alert": ""
+    },
+    {
+      "code": "09911",
+      "name": "赤子城科技",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 97.22,
+      "price": 10.49,
+      "price_change": -0.569,
+      "volume": 22974500,
+      "turnover": 239351281.0,
+      "pe": 12.771,
+      "alert": ""
+    },
+    {
+      "code": "09922",
+      "name": "九毛九",
+      "ccass_change": 0,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.98,
+      "price": 1.87,
+      "price_change": -2.094,
+      "volume": 1386000,
+      "turnover": 2594110.0,
+      "pe": 42.058,
+      "alert": ""
+    },
+    {
+      "code": "01658",
+      "name": "邮储银行",
+      "ccass_change": -1,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.93,
+      "price": 5.26,
+      "price_change": 1.544,
+      "volume": 15117000,
+      "turnover": 79350932.0,
+      "pe": 6.49,
+      "alert": ""
+    },
+    {
+      "code": "01171",
+      "name": "兖矿能源",
+      "ccass_change": -30,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.88,
+      "price": 15.13,
+      "price_change": 4.417,
+      "volume": 33739924,
+      "turnover": 506524527.51,
+      "pe": 16.043,
+      "alert": ""
+    },
+    {
+      "code": "02388",
+      "name": "中银香港",
+      "ccass_change": -499,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 32.5,
+      "price": 44.3,
+      "price_change": 0.0,
+      "volume": 3578900,
+      "turnover": 158048433.1,
+      "pe": 11.647,
+      "alert": ""
+    },
+    {
+      "code": "00023",
+      "name": "东亚银行",
+      "ccass_change": -626,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 92.54,
+      "price": 13.9,
+      "price_change": 0.0,
+      "volume": 583500,
+      "turnover": 8124445.6,
+      "pe": 11.364,
+      "alert": ""
+    },
+    {
+      "code": "03968",
+      "name": "招商银行",
+      "ccass_change": -966,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.23,
+      "price": 51.3,
+      "price_change": 0.786,
+      "volume": 6314715,
+      "turnover": 322757416.39,
+      "pe": 8.11,
+      "alert": ""
+    },
+    {
+      "code": "01800",
+      "name": "中国交通建设",
+      "ccass_change": -1000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.17,
+      "price": 4.47,
+      "price_change": -1.106,
+      "volume": 5124000,
+      "turnover": 23000300.0,
+      "pe": 4.682,
+      "alert": ""
+    },
+    {
+      "code": "02858",
+      "name": "易鑫集团",
+      "ccass_change": -1000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 66.32,
+      "price": 2.02,
+      "price_change": -1.942,
+      "volume": 5117600,
+      "turnover": 10365467.0,
+      "pe": 10.235,
+      "alert": ""
+    },
+    {
+      "code": "00966",
+      "name": "中国太平",
+      "ccass_change": -1820,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 44.95,
+      "price": 21.1,
+      "price_change": -4.265,
+      "volume": 10632493,
+      "turnover": 224896728.0,
+      "pe": 21.163,
+      "alert": ""
+    },
+    {
+      "code": "02600",
+      "name": "中国铝业",
+      "ccass_change": -4000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.81,
+      "price": 11.52,
+      "price_change": -3.518,
+      "volume": 28278126,
+      "turnover": 327801726.78,
+      "pe": 14.025,
+      "alert": ""
+    },
+    {
+      "code": "03998",
+      "name": "波司登",
+      "ccass_change": -4000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.87,
+      "price": 4.24,
+      "price_change": -0.703,
+      "volume": 5668000,
+      "turnover": 23961890.0,
+      "pe": 12.354,
+      "alert": ""
+    },
+    {
+      "code": "00027",
+      "name": "银河娱乐",
+      "ccass_change": -5000,
+      "ccass_change_pct": 0.010000000000005116,
+      "ccass_pct": 70.12,
+      "price": 33.82,
+      "price_change": -1.111,
+      "volume": 8260665,
+      "turnover": 279356676.36,
+      "pe": 13.83,
+      "alert": ""
+    },
+    {
+      "code": "03328",
+      "name": "交通银行",
+      "ccass_change": -5336,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 42.85,
+      "price": 7.35,
+      "price_change": 1.66,
+      "volume": 10742351,
+      "turnover": 78630419.36,
+      "pe": 6.13,
+      "alert": ""
+    },
+    {
+      "code": "00087",
+      "name": "太古股份公司Ｂ",
+      "ccass_change": -7500,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 22.12,
+      "price": 13.17,
+      "price_change": 0.305,
+      "volume": 517500,
+      "turnover": 6758950.0,
+      "pe": 30.531,
+      "alert": ""
+    },
+    {
+      "code": "00728",
+      "name": "中国电信",
+      "ccass_change": -20000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 99.6,
+      "price": 5.11,
+      "price_change": 1.59,
+      "volume": 50139120,
+      "turnover": 254922777.6,
+      "pe": 12.795,
+      "alert": ""
+    },
+    {
+      "code": "00823",
+      "name": "领展房产基金",
+      "ccass_change": -27475,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 96.05,
+      "price": 38.8,
+      "price_change": -0.615,
+      "volume": 3385813,
+      "turnover": 131148590.64,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "00902",
+      "name": "华能国际电力股份",
+      "ccass_change": -100000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 89.9,
+      "price": 6.33,
+      "price_change": 0.476,
+      "volume": 23187824,
+      "turnover": 145963243.52,
+      "pe": 7.605,
+      "alert": ""
+    },
+    {
+      "code": "00916",
+      "name": "龙源电力",
+      "ccass_change": -100000,
+      "ccass_change_pct": 0.010000000000005116,
+      "ccass_pct": 99.83,
+      "price": 6.35,
+      "price_change": 0.158,
+      "volume": 14456482,
+      "turnover": 91295749.4,
+      "pe": 10.317,
+      "alert": ""
+    },
+    {
+      "code": "02088",
+      "name": "西王置业",
+      "ccass_change": -100000,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 98.72,
+      "price": 0.038,
+      "price_change": 0.0,
+      "volume": 0,
+      "turnover": 0.0,
+      "pe": 0.0,
+      "alert": ""
+    },
+    {
+      "code": "02362",
+      "name": "金川国际",
+      "ccass_change": -105500,
+      "ccass_change_pct": 0.0,
+      "ccass_pct": 57.44,
+      "price": 0.64,
+      "price_change": 0.0,
+      "volume": 0,
+      "turnover": 0.0,
+      "pe": 32.818,
+      "alert": ""
+    },
+    {
+      "code": "00005",
+      "name": "汇丰控股",
+      "ccass_change": -3545183,
+      "ccass_change_pct": -0.01999999999999602,
+      "ccass_pct": 38.42,
+      "price": 141.5,
+      "price_change": -1.736,
+      "volume": 8382750,
+      "turnover": 1188711878.4,
+      "pe": 14.992,
+      "alert": ""
+    },
+    {
+      "code": "02269",
+      "name": "药明生物",
+      "ccass_change": null,
+      "ccass_change_pct": null,
+      "ccass_pct": null,
+      "price": 34.1,
+      "price_change": -2.627,
+      "volume": 14357528,
+      "turnover": 491317480.5,
+      "pe": 25.182,
+      "alert": ""
+    }
+  ],
+  "summary_html": "<p>本日共监控 <strong>265</strong> 只港股主板股票。</p>\n        <ul>\n            <li><strong>CCASS 持股变动</strong>：增持 50 家 | 减持 21 家 | 不变 192 家</li>\n            <li><strong>股价表现</strong>：上涨 73 家 | 下跌 173 家</li>\n            <li><strong>CCASS 总持股净变动</strong>：+11,135,973 股</li>\n        </ul>\n        "
+}
